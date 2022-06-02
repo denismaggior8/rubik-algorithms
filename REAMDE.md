@@ -1,12 +1,35 @@
----
-title: "Title"
-author: "Author"
-date: "DATE"
-output: 
-  html_document:
-     css: css/style.css
-     self_contained: no
----
+<style>
+
+.rots{font-weight:bold;display:inline-block;vertical-align:middle;margin:0}
+.rots > span{display:inline-block;width:36px;height:22px;background:url(img/rots.png) no-repeat 0px 100px transparent;padding:40px 0 0 0;line-height:22px;text-align:center;font-size:18px;font-style:normal;margin-right:8px}
+.rots > span.li{background-position:0px 0px}
+.rots > span.mi{background-position:-40px 0px}
+.rots > span.r{background-position:-80px 0px}
+.rots > span.ui{background-position:-120px 0px}
+.rots > span.e{background-position:-160px 0px}
+.rots > span.d{background-position:-200px 0px}
+.rots > span.l{background-position:-240px 0px}
+.rots > span.m{background-position:-280px 0px}
+.rots > span.ri{background-position:-320px 0px}
+.rots > span.u{background-position:-360px 0px}
+.rots > span.ei{background-position:-400px 0px}
+.rots > span.di{background-position:-440px 0px}
+.rots > span.f{background-position:-480px 0px}
+.rots > span.bi{background-position:-520px 0px}
+.rots > span.fi{background-position:-560px 0px}
+.rots > span.b{background-position:-600px 0px}
+.rots > span.s{background-position:-642px 0px}
+.rots > span.si{background-position:-682px 0px}
+.rots > span.f2{background-position:-720px 0px}
+.rots > span.r2{background-position:-760px 0px}
+.rots > span.u2{background-position:-800px 0px}
+.rots > span.b2{background-position:-840px 0px}
+.rots > span.l2{background-position:-880px 0px}
+.rots > span.d2{background-position:-920px 0px}
+.rots > span.m2{background-position:-960px 0px}
+.rots > span.e2{background-position:-1000px 0px}
+.rots > span.s2{background-position:-1040px 0px}
+</style>
 
 <span class="rots">
     <span class="u">U</span>
