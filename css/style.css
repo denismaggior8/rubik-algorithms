@@ -1,5 +1,5 @@
 .rots{font-weight:bold;display:inline-block;vertical-align:middle;margin:0}
-.rots > span{display:inline-block;width:36px;height:22px;background:url(img/rots.png) no-repeat 0px 100px transparent;padding:40px 0 0 0;line-height:22px;text-align:center;font-size:18px;font-style:normal;margin-right:8px}
+.rots > span{display:inline-block;width:36px;height:22px;background:url(../img/rots.png) no-repeat 0px 100px transparent;padding:40px 0 0 0;line-height:22px;text-align:center;font-size:18px;font-style:normal;margin-right:8px}
 .rots > span.li{background-position:0px 0px}
 .rots > span.mi{background-position:-40px 0px}
 .rots > span.r{background-position:-80px 0px}
